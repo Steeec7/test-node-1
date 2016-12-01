@@ -1,5 +1,6 @@
 var ciao = function() {
-	console.log("Ciao");
+	console.log("Ciaone");
+	console.log(process.env);
 };
 
 ciao();
